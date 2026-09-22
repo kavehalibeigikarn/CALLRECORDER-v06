@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ضبط تماس</string>
+    <string name="notif_channel_name">ضبط مکالمه</string>
+    <string name="notif_recording_title">در حال ضبط مکالمه</string>
+    <string name="notif_recording_text">مکالمهٔ جاری در حال ضبط است</string>
+    <string name="accessibility_desc">این سرویس اپ را هنگام تماس فعال نگه می‌دارد تا ضبط مکالمه بدون قطع‌شدن انجام شود. محتوای صفحات شما خوانده نمی‌شود.</string>
+</resources>
